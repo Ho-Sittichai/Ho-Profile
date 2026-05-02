@@ -36,12 +36,13 @@ Experienced Full-stack Developer with a proven track record in building and main
 
 ---
 
-### 📊 GitHub Activity
+### 📂 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ho-Sittichai&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho-Sittichai&layout=compact&theme=radical" alt="Top Langs" />
-</div>
+| Project                                                                          | Description                                                                             | Tech Stack                                                                                                                                                                                                        |
+| :------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Movie Ticket Project](https://github.com/Ho-Sittichai/movie-ticket-project)** | A comprehensive movie booking system with seat selection and payment flows.             | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)     |
+| **[Pokedex](https://github.com/Ho-Sittichai/Pokedex)**                           | A professional Pokemon encyclopedia following strict design specs and API integrations. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **[Edu Store Project](https://github.com/Ho-Sittichai/edu-store-project)**       | An educational resource marketplace platform for students and educators.                | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)      |
 
 ---
 
