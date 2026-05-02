@@ -26,7 +26,7 @@ Experienced Full-stack Developer with a proven track record in building and main
 
 ---
 
-### 💼 Professional Highlights
+### 💼 Experience
 
 #### **Full Stack Developer @ SCGJWD Logistics** _(Jul 2024 - Present)_
 
@@ -36,7 +36,7 @@ Experienced Full-stack Developer with a proven track record in building and main
 
 ---
 
-### 📂 Featured Projects
+### 📂 Projects
 
 | Project                                                                          | Description                                                                             | Tech Stack                                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
